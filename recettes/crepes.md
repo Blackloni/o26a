@@ -1,2 +1,2 @@
-Sucre : 50g
-Lait : 50cl
+Sucre : 30g
+Lait : 30cl
